@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tour Mate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">USERNAME</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">PASSWORD</string>
+    <string name="password1">Password</string>
+    <string name="have_no_account_signup">Have no Account? SignUp</string>
+    <string name="go">GO</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="terms_conditions"><![CDATA[By creating an account you agree to our Terms & Conditions and Privacy Policy]]></string>
+    <string name="email">Email</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
